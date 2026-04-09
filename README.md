@@ -33,12 +33,12 @@ com ênfase nos municípios paulistas, utilizando dados oficiais do ComexStat pa
 ##   Equipe
 | Função         | Nome     | GitHub | |
 |----------------|----------|----------|--------|
-| Product Owner  | Raquel Araújo Lima  | [GitHub]() | |
-| Scrum Master   | Marcelo R. Osako | [GitHub](marceloosako-mo) | |
-| Team Member    | Alisson Paulo de Andrade  | [GitHub](https://github.com/alisson051013) |  |
-| Team Member    | Caio César Santos Galioti Silva  | [GitHub]() |  |
-| Team Member    | Thiago Fernandes Moreira | [GitHub]() |  |
-| Team Member    | Vinícius Alessandro Moreira  | [GitHub]()|  |
+| Product Owner  | Alisson Paulo de Andrade  | [GitHub](https://github.com/alisson051013) | |
+| Scrum Master   | Bianca Ayumi Nakamura | [GitHub](https://github.com/BiancaAyumiNakamura) | |
+| Team Member    | Jackson David Rodrigues Penaforte | [GitHub](https://github.com/Jacksonpenaforte) |  |
+| Team Member    | Marcelo R. Osako  | [GitHub](https://github.com/marceloosako-mo) |  |
+| Team Member    | Raquel Araújo Lima | [GitHub](https://github.com/RaquelAraujoL) |  |
+| Team Member    | Vinícius Alessandro Moreira | [GitHub]()|  |
 
 ---
 
