@@ -5,9 +5,7 @@
 
 ##   Projeto
 
-Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de São Paulo.
-
-
+Dashboard do Fluxo de Cargas Especiais e Perigosas de Empresas com Registro no RAPP
 ---
 
 ##   Índice
