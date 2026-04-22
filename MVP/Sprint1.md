@@ -19,7 +19,7 @@
 * Foco em fornecer as primeiras análises de movimentação logística e validar a utilidade da ferramenta para gestores ambientais e analistas de logística. 
 
 ##  Personas / Usuários-Alvo
-1. **Pessoa 1 – Gestor de Logística e Infraestrutura:** Precisa de relatórios rápidos e precisos sobre a movimentação de cargas especiais para tomar decisões sobre rotas, segurança e investimentos em transportes. 
+1. **Persona 1 – Gestor de Logística e Infraestrutura:** Precisa de relatórios rápidos e precisos sobre a movimentação de cargas especiais para tomar decisões sobre rotas, segurança e investimentos em transportes. 
 2. **Persona 2 – Analista de Dados / Ambiental:** Precisa de bases de dados do IBAMA (RAPP) limpas e padronizadas para identificar gargalos logísticos e garantir o cumprimento das normas de transporte de cargas perigosas. 
 
 ##  Histórias de Usuário (Sprint 1) 
