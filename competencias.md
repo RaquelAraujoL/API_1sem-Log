@@ -4,5 +4,4 @@
 - Processo de desenvolvimento ágil
 - Caracterização do produto logístico
 - Lógica de programação básica
-- Lógica matemática
 - Persistência de dados em BD relacional
