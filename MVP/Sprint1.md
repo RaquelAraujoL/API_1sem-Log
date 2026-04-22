@@ -64,3 +64,11 @@
 
 - Link colabe limpeza de dados: https://colab.research.google.com/drive/1LAeYP5MkqIlomHgFZOUsjb7Vgtn842dm?usp=sharing
 - Video de apresentação do dashboard: https://drive.google.com/file/d/1Mnmgc_cnHFS_Sg2Acjkb6vhGiJirDrbm/view?usp=sharing
+
+
+https://github.com/user-attachments/assets/57e660f5-2f18-44be-a3a6-fd6b4e538ca2
+
+
+
+
+
