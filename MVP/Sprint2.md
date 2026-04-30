@@ -43,7 +43,7 @@
 
 💡 **OBSERVAÇÕES** 
 
-* <ins>**Foco da Etapa:</ins>** Transição do "Cérebro" (ETL) para a "Visualização".
+* <ins>**Foco da Etapa:</ins>** Transição do "Cérebro" Extrair, Transformar e Carregar (ETL) para a "Visualização".
   
 * <ins>**Ferramentas:</ins>** Utilização de Power BI para a criação de matriz Origem-Destino (OD) e Python para refinamento continuo.
   
