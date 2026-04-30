@@ -1,6 +1,5 @@
-🧠**MVP 2 - VISULIALIZAÇÃO E INTELIGÊNCIA DE FLUXO**
-
 🎯**OBJETIVO DO MVP2** 
+
 * <ins>**Problema identificado:</ins>**  Necessidade de maior precisão visual nas rotas de cargas e atualização periódica dos dados para garantir a consistência das análises estratégicas.
  
 * <ins>**Melhoria validada:</ins>** Implementação de mapas interativos para visualização da Matriz Origem-Destino (OD) e filtros granulares para análise regional.
