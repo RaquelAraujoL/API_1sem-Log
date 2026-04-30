@@ -59,7 +59,7 @@
 | Sprint | Entregas principais | Status |
 | :--- | :--- | :--- |
 | 2 | Desenvolvimento do Dashboard (Mapa OD, Filtros e Tendências). | Concluido | 
-| 3 | Publicação de relatórios revisados e controle de versão no GitHub. | Andamento | 
+| 3 | Publicação de relatórios revisados e controle de versão no GitHub. | Em andamento | 
 
 ---
 
