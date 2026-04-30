@@ -78,11 +78,11 @@
 ---
 
 📈  **Métricas de Avaliação** 
-* Tempo de Resposta do Dashboard. 
-* Taxa de Cobertura de Modais. 
-* Redução de Erros de Geolocalização. 
-* Nível de Granularidade (Nacional para Estadual sem perda de performance).
-* Feedback de Usabilidade dos usuários-alvo. 
+* Tempo de Resposta do Dashboard: O tempo que o painel leva para filtrar e carregar os visuais após a seleção de um estado ou modal.
+* Taxa de Cobertura de Modais: Percentual de registros que possuem o modal corretamente identificado e categorizado no dashboard.
+* Redução de Erros de Geolocalização: Percentual de registros que possuem o modal corretamente identificado e categorizado no dashboard.
+* Nível de Granularidade (Nacional para Estadual sem perda de performance):Capacidade do sistema de descer do nível Nacional para o nível Estadual sem perda de performance.
+* Feedback de Usabilidade dos usuários-alvo:Avaliação dos usuários-alvo (Gestores e Analistas) sobre a facilidade de interpretar a Matriz OD. 
 
 ---
 
