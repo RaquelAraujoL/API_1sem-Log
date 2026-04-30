@@ -54,6 +54,16 @@
 
 ---
 
+## 📅 Sprint Relacionada 
+
+
+| Corrida | Entregas principais | Status |
+| :--- | :--- | :--- |
+| 2 | Desenvolvimento do Dashboard (Mapa OD, Filtros e Tendências). | Concluido | 
+| 3 | Publicação de relatórios revisados e controle de versão no GitHub. | Concluido | 
+
+---
+
 📊 **Critérios de Aceitação** 
 * <ins>**Visual de Mapa:</ins>** O dashboard deve obrigatoriamente exibir um mapa funcional que conecte os pontos de Origem e Destino das cargas.
   
