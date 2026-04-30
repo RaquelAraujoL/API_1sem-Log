@@ -1,4 +1,4 @@
-🎯**Objetivo do MVP2** 
+🎯**OBJETIVO DO MVP2** 
 * <ins>**Problema identificado:</ins>**  Necessidade de maior precisão visual nas rotas de cargas e atualização periódica dos dados para garantir a consistência das análises estratégicas.
  
 * <ins>**Melhoria validada:</ins>** Implementação de mapas interativos para visualização da Matriz Origem-Destino (OD) e filtros granulares para análise regional.
@@ -28,7 +28,7 @@
 
 ---
 
-📋 **Histórias de Usuário (Sprint 2)** 
+📋 **HISTÓRIAS DE USUÁRIO (SPRINT 2)** 
 
 | ID | Prioridade | História do Usuário | Pontos | Status | Corrida |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -40,7 +40,7 @@
 
 ---
 
-💡 **Observações** 
+💡 **OBSERVAÇÕES** 
 
 * <ins>**Foco da Etapa:</ins>** Transição do "Cérebro" (ETL) para a "Visualização".
   
@@ -52,7 +52,7 @@
 
 ---
 
-## 📅 Sprint Relacionada 
+## 📅 SPRINT RELACIONADA
 
 
 | Corrida | Entregas principais | Status |
@@ -62,7 +62,7 @@
 
 ---
 
-📊 **Critérios de Aceitação** 
+📊 **CRITÉRIOS DE ACEITAÇÃO** 
 * <ins>**Visual de Mapa:</ins>** O dashboard deve obrigatoriamente exibir um mapa funcional que conecte os pontos de Origem e Destino das cargas.
   
 * <ins>**Precisão de Filtros:</ins>** Os filtros de Região, Estado e Modal devem responder instantaneamente.
@@ -75,7 +75,7 @@
 
 ---
 
-📈  **Métricas de Avaliação** 
+📈  **MÉTRICAS DE AVALIAÇÃO** 
 * Tempo de Resposta do Dashboard: O tempo que o painel leva para filtrar e carregar os visuais após a seleção de um estado ou modal.
 * Taxa de Cobertura de Modais: Percentual de registros que possuem o modal corretamente identificado e categorizado no dashboard.
 * Redução de Erros de Geolocalização: Percentual de registros que possuem o modal corretamente identificado e categorizado no dashboard.
@@ -84,7 +84,7 @@
 
 ---
 
-🚀 **Próximos Passos (Para a Sprint 3)** 
+🚀 **PRÓXIMOS PASSOS (PARA A SPRINT 3)** 
 * Iniciar a redação do Relatório Técnico Interpretativo. 
 * Identificar as Top 10 Empresas movimentadoras e gargalos logísticos. 
 * Preparar a documentação final do código para o GitHub. 
